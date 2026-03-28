@@ -90,4 +90,4 @@ The project includes a full Postman Collection (ProjectManagementSystem.postman_
 </p>
 
 ## 🎥 Video Demo
-[Click here to watch the Video Walkthrough](assets/VideoProject.mp4)
+[Click here to watch the Video Walkthrough](https://drive.google.com/file/d/102sUBFQ-e9nFIdyuPqGkhKRn2PkafwIW/view?usp=sharing)
